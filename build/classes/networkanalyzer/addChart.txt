@@ -1,0 +1,2 @@
+DynamicPing pinger = new DynamicPing();
+        pingPanel.add(pinger.getChartPanel());
